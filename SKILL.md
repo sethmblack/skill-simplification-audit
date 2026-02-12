@@ -1,10 +1,9 @@
 ---
 name: simplification-audit
-description: Systematically identify and eliminate unnecessary complexity, options,
-  and variations from systems, processes, or products.
+description: Systematically identify and eliminate unnecessary complexity, options, and variations from systems, processes, or products.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - simplification-audit
