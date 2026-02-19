@@ -3,7 +3,7 @@ name: simplification-audit
 description: Systematically identify and eliminate unnecessary complexity, options, and variations from systems, processes, or products.
 license: MIT
 metadata:
-  version: 1.0.4983
+  version: 1.0.4984
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
